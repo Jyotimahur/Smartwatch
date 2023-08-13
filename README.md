@@ -1,2 +1,2 @@
-# Smartwatch
-I developed a product landing page of smartwatch using HTML  &amp; CSS
+#  Web Development _Smartwatch
+I developed a product landing page of Smartwatch using HTML  &amp; CSS
